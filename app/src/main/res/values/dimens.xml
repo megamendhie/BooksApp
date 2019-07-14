@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="placeholder_image">50dp</dimen>
+    <dimen name="placeholder_text_height">18dp</dimen>
+    <dimen name="vertical_padding">10dp</dimen>
+</resources>
